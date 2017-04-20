@@ -1,6 +1,7 @@
 body {
 	color: rgb(70, 0, 130);
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/ab/ac/c4/abacc4506848ffb15ab21afce774925b.jpg");
+	font-family: Helvetica, sans-serif;
 }
 
 h1 {
@@ -13,7 +14,4 @@ h1 {
 	text-align: center;
 }
 
-body, h1, p, ul, li {
-	font-family: Helvetica, sans-serif;
-}
 
