@@ -1,6 +1,7 @@
 body {
 	color: rgb(70, 0, 130);
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/ab/ac/c4/abacc4506848ffb15ab21afce774925b.jpg");
+	background-size: cover;
 	font-family: Helvetica, sans-serif;
 }
 
