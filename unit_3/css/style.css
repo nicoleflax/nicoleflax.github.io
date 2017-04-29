@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Chau+Philomene+One|Josefin+Sans|Megrim');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
 
 
 body {
@@ -15,7 +15,7 @@ h1, #slogan {
 }
 
 #slogan {
-	font-family: 'Chau Philomene One', sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 h1 {
