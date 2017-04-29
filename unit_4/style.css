@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
+
+
+body {
+	color: rgb(70,0,130);
+	background: url("https://s-media-cache-ak0.pinimg.com/originals/ab/ac/c4/abacc4506848ffb15ab21afce774925b.jpg");
+	background-size: cover;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1, #slogan {
+	color: rgb(40, 0, 70);
+	text-align: left;
+	font-weight: 600;
+}
+
+#slogan {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+	font-family: 'Megrim', cursive;
+}
