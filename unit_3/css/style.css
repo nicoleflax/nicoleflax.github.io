@@ -1,18 +1,17 @@
-@import url('https://fonts.googleapis.com/css?family=Chau+Philomene+One');
-@import url('https://fonts.googleapis.com/css?family=Megrim');
+@import url('https://fonts.googleapis.com/css?family=Chau+Philomene+One|Josefin+Sans|Megrim');
+
 
 body {
 	color: rgb(70,0,130);
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/ab/ac/c4/abacc4506848ffb15ab21afce774925b.jpg");
 	background-size: cover;
-	font-family: Helvetica, sans-serif;
+	font-family: 'Josefin Sans', sans-serif;
 }
 
 h1, #slogan {
 	color: rgb(40, 0, 70);
 	text-align: left;
 	font-weight: 600;
-	font-family: 'Chau Philomene One', sans-serif;
 }
 
 #slogan {
