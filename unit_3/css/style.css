@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Chau+Philomene+One');
+@import url('https://fonts.googleapis.com/css?family=Megrim');
+
 body {
 	color: rgb(70,0,130);
 	background: url("https://s-media-cache-ak0.pinimg.com/originals/ab/ac/c4/abacc4506848ffb15ab21afce774925b.jpg");
@@ -10,6 +13,13 @@ h1, #slogan {
 	text-align: center;
 	font-style: italic;
 	font-weight: 600;
+	font-family: 'Chau Philomene One', sans-serif;
 }
 
+#slogan {
+	font-family: 'Chau Philomene One', sans-serif;
+}
 
+h1 {
+	font-family: 'Megrim', cursive;
+}
