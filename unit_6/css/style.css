@@ -60,3 +60,8 @@ div, section {
 	height: 0;
 
 }
+
+li {
+	display: inline;
+
+}
