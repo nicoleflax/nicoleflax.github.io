@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -60,4 +62,8 @@ div, section {
 	clear: both;
 	height: 0;
 
+}
+
+h1 {
+	font-family: 'Megrim', cursive;
 }
