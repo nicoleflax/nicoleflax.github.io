@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
 
 header {
-	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	background: url(http://wallpapercave.com/wp/ob5bIJo.jpg);
+	background-size: cover;
 }
 
 article {
