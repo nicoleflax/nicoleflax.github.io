@@ -4,7 +4,7 @@ header {
 	border: 1px black solid;
 	padding: 12em;
 	background: url(http://wallpapercave.com/wp/ob5bIJo.jpg);
-	/*background-size: cover;*/
+	background-size: cover;
 }
 
 article {
