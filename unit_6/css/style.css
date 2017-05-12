@@ -12,7 +12,7 @@ body, #slogan {
 }
 
 article {
-	background-color: #FFC675;
+	background-color: #CB9BFF;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -24,19 +24,19 @@ footer {
 }
 
 div, section {
-	background-color: #6900FF;
+	background-color: #290063;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #two_column {
-	background-color: #black;
+	background-color: #CB9BFF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 #left {
-	background-color: #8C96FF;
+	background-color: #CB9BFF;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
