@@ -5,6 +5,8 @@ header {
 	padding: 12em;
 	background: url(http://wallpapercave.com/wp/ob5bIJo.jpg);
 	background-size: contain;
+	background-repeat: no-repeat;
+
 }
 
 article {
