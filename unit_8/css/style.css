@@ -11,16 +11,17 @@ body, #slogan {
 	font-family: 'Josefin Sans', sans-serif;
 }
 
-article {
+/*article {
 	background-color: ##AEB8FF;
 	border: 1px black solid;
 	padding: 20px;
-}
+}*/
 
 footer {
 	background-color: #AEB8FF;
 	border: 1px black solid;
 	padding: 20px;
+	width: 100%;
 }
 
 div, section {
