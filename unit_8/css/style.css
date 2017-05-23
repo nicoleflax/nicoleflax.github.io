@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
+
+header {
+	border: 1px black solid;
+	padding: 12em;
+	background: url(../images/background.jpg);
+	background-size: contain; 
+}
+
+body, #slogan {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+article {
+	background-color: ##AEB8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div, section {
+	background-color: #290063;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#two_column {
+	background-color: #8C96FF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 40%;
+}
+
+#right {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 52%;
+
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+
+}
+
+h1 {
+	font-family: 'Megrim', cursive;
+}
+
+h1, #slogan {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 600;
+}
