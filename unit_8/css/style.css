@@ -27,12 +27,14 @@ div, section {
 	background-color: #290063;
 	border: 1px black solid;
 	padding: 20px;
+	width: 100%;
 }
 
 #two_column {
 	background-color: #8C96FF;
 	border: 1px black solid;
 	padding: 20px;
+	width: 84%;
 }
 
 #left {
