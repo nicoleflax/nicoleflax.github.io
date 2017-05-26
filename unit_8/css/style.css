@@ -2,7 +2,7 @@
 
 header {
 	border: 1px black solid;
-	padding: 20px;
+	padding: 12em;
 	background: url(../images/background.jpg);
 	background-size: contain; 
 }
@@ -29,7 +29,7 @@ footer {
 	width: 97%;
 }
 
-div {
+div, section {
 	background-color: #290063;
 	border: 1px black solid;
 	padding: 20px;
@@ -39,7 +39,7 @@ div {
 #two_column {
 	background-color: #8C96FF;
 	border: 1px black solid;
-	padding: 12em;
+	padding: 20px;
 	width: 97%;
 }
 
