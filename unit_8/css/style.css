@@ -2,13 +2,14 @@
 
 header {
 	border: 1px black solid;
-	padding: 12em;
+	padding: 20px;
 	background: url(../images/background.jpg);
 	background-size: contain; 
 }
 
 body, #slogan {
 	font-family: 'Josefin Sans', sans-serif;
+
 }
 
 /*article {
