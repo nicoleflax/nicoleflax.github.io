@@ -29,7 +29,7 @@ footer {
 	width: 97%;
 }
 
-div, section {
+div {
 	background-color: #290063;
 	border: 1px black solid;
 	padding: 20px;
