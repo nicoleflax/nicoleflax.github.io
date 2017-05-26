@@ -17,6 +17,10 @@ body, #slogan {
 	padding: 20px;
 }*/
 
+.wrapper {
+	width: 100%
+}
+
 footer {
 	background-color: #AEB8FF;
 	border: 1px black solid;
