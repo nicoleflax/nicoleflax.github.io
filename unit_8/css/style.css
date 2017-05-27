@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
+{ margin:0; padding:0; box-sizing:border-box; }
 
 header {
 	border: 1px black solid;
@@ -18,29 +19,25 @@ body, #slogan {
 	padding: 20px;
 }*/
 
-.wrapper {
-	width: 100%
-}
+
 
 footer {
 	background-color: #AEB8FF;
 	border: 1px black solid;
 	padding: 20px;
-	width: 97%;
 }
 
 div, section {
 	background-color: #290063;
 	border: 1px black solid;
 	padding: 20px;
-	width: 100%;
+
 }
 
 #two_column {
 	background-color: #8C96FF;
 	border: 1px black solid;
 	padding: 20px;
-	width: 97%;
 }
 
 #left {
