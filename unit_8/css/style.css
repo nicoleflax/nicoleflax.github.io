@@ -51,6 +51,8 @@ div, section {
 
 #right {
 	float: right;
+	width: 52%;
+
 }
 
 a:link, a:visited {
@@ -59,7 +61,6 @@ a:link, a:visited {
 	background-color: #AEB8FF;
 	border: 1px black solid;
 	padding: 20px;
-	width: 52%;
 	text-align: center;
 	font-weight: bold;
 }
