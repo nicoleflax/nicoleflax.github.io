@@ -55,7 +55,12 @@ div, section {
 	padding: 20px;
 	float: right;
 	width: 52%;
+	text-align: center;
+}
 
+a:link, a:visited, a:hover, a:active {
+	text-decoration: none;
+	color: black;
 }
 
 .clearfix:after {
