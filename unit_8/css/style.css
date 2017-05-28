@@ -24,7 +24,8 @@ body, #slogan {
 footer {
 	background-color: #AEB8FF;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20px; 
+	text-align: center;
 }
 
 div, section {
