@@ -70,7 +70,8 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-	background-color: white;
+	background-color: #290063;
+	color: white;
 }
 
 .clearfix:after {
