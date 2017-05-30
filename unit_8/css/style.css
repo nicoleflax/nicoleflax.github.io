@@ -104,3 +104,8 @@ ul {
 
 p, li, a {
 	line-height: 1.5em;
+}
+
+a.gap {
+	margin-bottom: 20px;
+}
