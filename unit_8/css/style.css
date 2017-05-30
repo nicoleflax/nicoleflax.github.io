@@ -10,7 +10,7 @@ header {
 
 body, #slogan {
 	font-family: 'Josefin Sans', sans-serif;
-
+	font-size: 16px;
 }
 
 /*article {
@@ -84,6 +84,7 @@ a:hover, a:active {
 
 h1 {
 	font-family: 'Megrim', cursive;
+	font-size: 4.4em;
 }
 
 h1, #slogan {
@@ -99,5 +100,5 @@ ul {
 }
 
 p, li {
-	padding: 20px;
+	padding: 10px;
 }
