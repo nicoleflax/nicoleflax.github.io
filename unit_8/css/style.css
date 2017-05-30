@@ -57,6 +57,7 @@ div, section {
 
 a:link, a:visited {
 	text-decoration: none;
+	float: none;
 	color: black;
 	background-color: #AEB8FF;
 	border: 1px black solid;
