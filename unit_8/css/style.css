@@ -77,8 +77,8 @@ a:hover, a:active {
 .clearfix:after {
 	visibility: hidden;
 	display: block;
-	font-size: 0;
-	content: " ";
+/*	font-size: 0;
+*/	content: " ";
 	clear: both;
 	height: 0;
 
