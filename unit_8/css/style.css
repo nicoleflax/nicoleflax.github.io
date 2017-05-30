@@ -65,7 +65,7 @@ a:link, a:visited {
 	text-align: center;
 	font-weight: bold;
 	width: 100%;
-	display: block;
+	display: inline-block;
 }
 
 a:hover, a:active {
