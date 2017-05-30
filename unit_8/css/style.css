@@ -61,8 +61,10 @@ a:link, a:visited {
 	background-color: #AEB8FF;
 	border: 1px black solid;
 	padding: 20px;
+	margin: 20px;
 	text-align: center;
 	font-weight: bold;
+	width: 100%;
 }
 
 a:hover, a:active {
