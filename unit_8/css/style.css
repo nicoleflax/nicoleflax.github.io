@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
 { margin:0; padding:0; box-sizing:border-box; }
 
+body, #slogan {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+}
+
 header {
 	border: 1px black solid;
 	padding: 12em;
 	background: url(../images/background.jpg);
 	background-size: contain; 
-}
-
-body, #slogan {
-	font-family: 'Josefin Sans', sans-serif;
-	font-size: 16px;
 }
 
 /*article {
