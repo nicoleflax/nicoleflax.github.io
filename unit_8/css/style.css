@@ -66,6 +66,7 @@ a:link, a:visited {
 	font-weight: bold;
 	width: 95%;
 	display: inline-block;
+	font-size: 1em;
 }
 
 a:hover, a:active {
