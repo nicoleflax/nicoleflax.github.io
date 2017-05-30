@@ -87,6 +87,7 @@ a:hover, a:active {
 h1 {
 	font-family: 'Megrim', cursive;
 	font-size: 4.4em;
+	padding: 20px;
 }
 
 h1, #slogan {
