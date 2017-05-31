@@ -8,7 +8,7 @@ body, #slogan {
 
 header {
 	border: 1px black solid;
-	padding: 12em;
+	padding: 8em;
 	background: url(../images/background.jpg);
 	background-size: contain; 
 }
@@ -70,7 +70,8 @@ a:hover, a:active {
 	border: 1px black solid;
 	padding: 2em;
 	float: left;
-	width: 43%;
+	width: 41%;
+	margin-right: 0.625em;
 }
 
 .clearfix:after {
@@ -107,4 +108,64 @@ p, li, a {
 
 a.gap {
 	margin-bottom: 1.25em;
+}
+
+@media only screen and (max-width: 1170px) {
+	#right {
+		width: 48%;
+	}
+
+}
+
+@media only screen and (max-width: 775px) {
+	.wrapper, #two_column {
+		padding: 1em;
+	}
+
+	#right {
+		width: 41%;
+	}
+
+	h1 {
+		font-size: 3em;
+
+	}
+
+	header {
+		padding: 5em;
+
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	#slogan {
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 500px) {
+	header {
+		padding: 3em;
+	}
+
+	h1 {
+		font-size: 2em;
+	}
+
+	.wrapper, #two_column {
+		padding: 0.5em;
+	}
+
+	#left {
+		float: none;
+		margin-right: 0.5em;
+		width: 81%;
+	}
+
+	#right {
+		float: none;
+		margin-bottom: 1em;
+		width: 100%;
+	}
+
 }
