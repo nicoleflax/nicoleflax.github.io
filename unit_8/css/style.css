@@ -110,13 +110,17 @@ a.gap {
 	margin-bottom: 1.25em;
 }
 
-@media /*only screen and */(max-width: 1170px) {
+@media only screen and (max-width: 1170px) {
 	#right {
 		width: 48%;
 	}
+
+	h1 {
+		font-size: 4em;
+	}
 }
 
-@media /*only screen and*/ (max-width: 790px) {
+@media only screen and (max-width: 790px) {
 	.wrapper, #two_column {
 		padding: 1em;
 	}
