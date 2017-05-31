@@ -24,27 +24,26 @@ header {
 footer {
 	background-color: #AEB8FF;
 	border: 1px black solid;
-	padding: 20px; 
+	padding: 1.25em; 
 	text-align: center;
 }
 
 div, section {
 	background-color: #290063;
 	border: 1px black solid;
-	padding: 1%;
+	padding: 1.25em;
 
 }
 
 #two_column {
 	background-color: #8C96FF;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 1.25em;
 }
 
 #right {
 	float: right;
 	width: 52%;
-	min-height: 20em;
 }
 
 a:link, a:visited {
@@ -69,10 +68,9 @@ a:hover, a:active {
 #left {
 	background-color: #AEB8FF;
 	border: 1px black solid;
-	padding: 30px;
+	padding: 2em;
 	float: left;
 	width: 44%;
-	min-height: 20em;
 }
 
 .clearfix:after {
@@ -88,7 +86,7 @@ a:hover, a:active {
 h1 {
 	font-family: 'Megrim', cursive;
 	font-size: 4.4em;
-	padding: 20px;
+	padding: 1.25em;
 }
 
 h1, #slogan {
@@ -108,5 +106,5 @@ p, li, a {
 }
 
 a.gap {
-	margin-bottom: 20px;
+	margin-bottom: 1.25em;
 }
