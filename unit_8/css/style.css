@@ -118,6 +118,10 @@ a.gap {
 	h1 {
 		font-size: 3.8em;
 	}
+
+	header {
+		padding: 6.5em;
+	}
 }
 
 @media only screen and (max-width: 790px) {
