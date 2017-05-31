@@ -114,7 +114,6 @@ a.gap {
 	#right {
 		width: 48%;
 	}
-
 }
 
 @media only screen and (max-width: 790px) {
@@ -128,12 +127,10 @@ a.gap {
 
 	h1 {
 		font-size: 3em;
-
 	}
 
 	header {
 		padding: 5em;
-
 	}
 }
 
@@ -141,9 +138,7 @@ a.gap {
 	#slogan {
 		display: none;
 	}
-}
 
-@media only screen and (max-width: 525px) {
 	header {
 		padding: 3em;
 	}
@@ -167,5 +162,4 @@ a.gap {
 		margin-bottom: 1em;
 		width: 100%;
 	}
-
 }
