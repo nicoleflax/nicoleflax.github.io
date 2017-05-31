@@ -41,15 +41,6 @@ div, section {
 	padding: 20px;
 }
 
-#left {
-	background-color: #AEB8FF;
-	border: 1px black solid;
-	padding: 30px;
-	float: left;
-	width: 44%;
-	height: 100%;
-}
-
 #right {
 	float: right;
 	width: 52%;
@@ -73,6 +64,15 @@ a:link, a:visited {
 a:hover, a:active {
 	background-color: #290063;
 	color: white;
+}
+
+#left {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 30px;
+	float: left;
+	width: 44%;
+	height: 100%;
 }
 
 .clearfix:after {
