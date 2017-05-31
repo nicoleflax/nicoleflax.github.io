@@ -70,7 +70,7 @@ a:hover, a:active {
 	border: 1px black solid;
 	padding: 2em;
 	float: left;
-	width: 44%;
+	width: 40%;
 }
 
 .clearfix:after {
@@ -86,7 +86,7 @@ a:hover, a:active {
 h1 {
 	font-family: 'Megrim', cursive;
 	font-size: 4.4em;
-	padding: 1.25em;
+	padding: 1em;
 }
 
 h1, #slogan {
