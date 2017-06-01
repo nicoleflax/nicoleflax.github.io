@@ -161,7 +161,8 @@ a.gap {
 
 	#left {
 		float: none;
-		margin-right: 0.5em;
+		margin-left: auto;
+		margin-right: auto;
 		width: 81%;
 	}
 
