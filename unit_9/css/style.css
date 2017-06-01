@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans|Megrim');
+{ margin:0; padding:0; box-sizing:border-box; }
+
+body, #slogan {
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+}
+
+header {
+	border: 1px black solid;
+	padding: 8em;
+	background: url(../images/background.jpg);
+	background-size: contain; 
+}
+
+/*article {
+	background-color: ##AEB8FF;
+	border: 1px black solid;
+	padding: 20px;
+}*/
+
+
+
+footer {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 1.25em; 
+	text-align: center;
+}
+
+div, section {
+	background-color: #290063;
+	border: 1px black solid;
+	padding: 1.25em;
+
+}
+
+#two_column {
+	background-color: #8C96FF;
+	border: 1px black solid;
+	padding: 1.25em;
+}
+
+#right {
+	float: right;
+	width: 52%;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	float: none;
+	color: black;
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 2%;
+	text-align: center;
+	font-weight: bold;
+	width: 95%;
+	display: inline-block;
+	font-size: 1em;
+}
+
+a:hover, a:active {
+	background-color: #290063;
+	color: white;
+}
+
+#left {
+	background-color: #AEB8FF;
+	border: 1px black solid;
+	padding: 2em;
+	float: left;
+	width: 41%;
+	margin-right: 0.625em;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+/*	font-size: 0;
+*/	content: " ";
+	clear: both;
+	height: 0;
+
+}
+
+h1 {
+	font-family: 'Megrim', cursive;
+	font-size: 4.4em;
+	padding: 1em;
+}
+
+h1, #slogan {
+	color: #FFFFFF;
+	text-align: center;
+	font-weight: 600;
+}
+
+
+ul {
+	list-style-type: square;
+	list-style-position: inside;
+}
+
+p, li, a {
+	line-height: 1.5em;
+}
+
+a.gap {
+	margin-bottom: 1.25em;
+}
+
+@media only screen and (max-width: 1170px) {
+	#right {
+		width: 48%;
+	}
+
+	h1 {
+		font-size: 3.5em;
+	}
+
+	header {
+		padding: 6.5em;
+	}
+}
+
+@media only screen and (max-width: 790px) {
+	.wrapper, #two_column {
+		padding: 1em;
+	}
+
+	#right {
+		width: 41%;
+	}
+
+	h1 {
+		font-size: 2.5em;
+	}
+
+	header {
+		padding: 4em;
+	}
+}
+
+@media only screen and (max-width: 550px) {
+	#slogan {
+		display: none;
+	}
+
+	header {
+		padding: 2.75em;
+	}
+
+	h1 {
+		font-size: 1.9em;
+	}
+
+	.wrapper, #two_column {
+		padding: 0.5em;
+	}
+
+	#left {
+		float: none;
+		margin-right: 0.5em;
+		width: 81%;
+	}
+
+	#right {
+		float: none;
+		margin-bottom: 1em;
+		width: 100%;
+	}
+}
