@@ -156,7 +156,7 @@ p#left, ul#left {
 }
 
 @media only screen and (max-width: 550px) {
-	#slogan {
+	#slogan, img {
 		display: none;
 	}
 
