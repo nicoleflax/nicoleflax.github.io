@@ -173,9 +173,4 @@ a.gap {
 		width: 100%;
 	}
 
-	img {
-		display: inline;
-		max-width: 100%;
-		height: auto;
-	}
 }
