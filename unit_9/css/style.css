@@ -36,7 +36,7 @@ div, section {
 }
 
 #two_column {
-	background-color: #8C96FF;
+	background-color: #3D0093;
 	border: 1px black solid;
 	padding: 1.25em;
 }
@@ -61,7 +61,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-	background-color: #290063;
+	background-color: #8C96FF;
 	color: white;
 }
 
