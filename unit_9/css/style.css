@@ -113,7 +113,7 @@ a.gap {
 img {
 	float: right;
 	display: inline;
-	width: 50%;
+	max-width: 50%;
 	height: auto;
 }
 
