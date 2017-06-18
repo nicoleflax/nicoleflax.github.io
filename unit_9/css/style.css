@@ -113,6 +113,8 @@ a.gap {
 img {
 	float: right;
 	display: inline;
+	width: 50%;
+	height: auto;
 }
 
 @media only screen and (max-width: 1170px) {
