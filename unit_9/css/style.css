@@ -125,7 +125,7 @@ p#left, ul#left {
 
 @media only screen and (max-width: 1170px) {
 	#right {
-		width: 48%;
+		width: 50%;
 	}
 
 	h1 {
