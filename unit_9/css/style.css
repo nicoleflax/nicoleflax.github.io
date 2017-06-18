@@ -71,7 +71,7 @@ a:hover, a:active {
 	padding: 1em 1em 1em 1.5em;
 	float: left;
 	width: 41%;
-	margin-right: 0.625em;
+	margin-right: 0.5em;
 }
 
 .clearfix:after {
@@ -152,6 +152,10 @@ p#left, ul#left {
 
 	header {
 		padding: 3.7em;
+	}
+
+	img {
+		display: none;
 	}
 }
 
