@@ -68,7 +68,7 @@ a:hover, a:active {
 #left {
 	background-color: #AEB8FF;
 	border: 1px black solid;
-	padding: 1.8em;
+	padding: 1em 1em 1em 1.5em;
 	float: left;
 	width: 41%;
 	margin-right: 0.625em;
@@ -116,6 +116,7 @@ img {
 	display: inline;
 	max-width: 50%;
 	height: auto;
+	padding: 0.5em;
 }
 
 p#left, ul#left {
