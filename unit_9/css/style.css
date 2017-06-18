@@ -112,9 +112,14 @@ a.gap {
 
 img {
 	float: right;
+	vertical-align: text-top;
 	display: inline;
 	max-width: 50%;
 	height: auto;
+}
+
+p#left, ul#left {
+	display: inline;
 }
 
 @media only screen and (max-width: 1170px) {
