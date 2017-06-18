@@ -110,6 +110,11 @@ a.gap {
 	margin-bottom: 1.25em;
 }
 
+img {
+	float: right;
+	display: inline;
+}
+
 @media only screen and (max-width: 1170px) {
 	#right {
 		width: 48%;
